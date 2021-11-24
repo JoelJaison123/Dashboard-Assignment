@@ -1,0 +1,305 @@
+@media(min-width:1201px) and (max-width:1600px){
+	header{padding: 30px 30px 30px 260px;}
+	.leftbar{width: 240px;}
+	.main-wrapper{padding: 125px 30px 30px 260px;}
+
+	.dash-block{padding: 25px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 16px;}
+	.dash-block h2{font-size: 30px;}
+	.trands-rowbx{margin: 0 0 30px;}
+	.trands-rightbx li{padding: 20px;}
+
+	.trands-rightbx li{padding: 15px;}
+	.graph-box img{height: 350px;}
+	.listed-head,.ticket-table .table tbody tr td{padding: 15px;}
+	.task-table .table tbody tr td{padding: 14px 15px;}
+	.trands-rightbx li h6{line-height:24px;font-size: 16px;}
+	.trands-rightbx li h4{font-size: 25px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+}
+
+@media(min-width:1025px) and (max-width:1200px){
+	header{padding: 30px 30px 30px 260px;}
+	.leftbar{width: 240px;}
+	.main-wrapper{padding: 125px 30px 30px 260px;}
+
+	.dash-block{padding: 25px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 16px;}
+	.dash-block h2{font-size: 30px;}
+	.trands-rowbx{margin: 0 0 30px;}
+	.trands-rightbx li{padding: 20px;}
+
+	.trands-rightbx li{padding: 15px;}
+	.graph-box img{height: 350px;}
+	.listed-head,.ticket-table .table tbody tr td{padding: 15px;}
+	.task-table .table tbody tr td{padding: 14px 15px;}
+	.trands-rightbx li h6{line-height:24px;font-size: 16px;}
+	.trands-rightbx li h4{font-size: 25px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+}
+
+@media(min-width:992px) and (max-width:1024px){
+	header{padding: 15px 0;}
+	.leftbar{left: -100%;}
+	aside.leftbar.open-bar{left: 0;}
+	a.close-bx{display: block;z-index: 60;}
+	.main-wrapper{padding: 100px 0 15px 0;}
+	.left-headtitle h1{font-size: 16px;}
+	.left-headtitle a.mobilelogo, .left-headtitle .open-sidebar{display: block;}
+	.left-headtitle a.mobilelogo img{width: 35px;margin-right: 10px;}
+
+	.dash-block{padding: 15px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 15px;}
+	.dash-block h2{font-size: 26px;}
+	.trands-rowbx{margin: 0 0 30px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+
+	.trands-rightbx li{padding: 15px;}
+	.graph-box img{height: 350px;}
+	.listed-head,.ticket-table .table tbody tr td{padding: 15px;}
+	.task-table .table tbody tr td{padding: 14px 15px;}
+	.trands-rightbx li h6{line-height:24px;font-size: 16px;}
+	.trands-rightbx li h4{font-size: 25px;}
+}
+
+@media(min-width:768px) and (max-width:991px){
+	header{padding: 15px 0;}
+	.leftbar{left: -100%;}
+	aside.leftbar.open-bar{left: 0;}
+	a.close-bx{display: block;z-index: 60;}
+	.main-wrapper{padding: 100px 0 15px 0;}
+	.left-headtitle h1{font-size: 16px;}
+	.left-headtitle a.mobilelogo, .left-headtitle .open-sidebar{display: block;}
+	.left-headtitle a.mobilelogo img{width: 35px;margin-right: 10px;}
+
+	.dash-block{padding: 15px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 15px;}
+	.dash-block h2{font-size: 26px;}
+	.trands-rowbx{margin: 0 0 30px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+
+	.trands-rightbx li{padding: 15px;}
+	.graph-box img{height: 300px;}
+	.listed-head,.ticket-table .table tbody tr td{padding: 15px;}
+	.task-table .table tbody tr td{padding: 14px 15px;}
+	.trands-rightbx li h6{line-height: 22px;font-size: 14px;}
+	.trands-rightbx li h4{font-size: 18px;}
+}
+
+@media(min-width:576px) and (max-width:767px){
+	header{padding: 15px 0;}
+	.leftbar{left: -100%;}
+	aside.leftbar.open-bar{left: 0;}
+	a.close-bx{display: block;z-index: 60;}
+	.main-wrapper{padding: 100px 0 15px 0;}
+	.right-headmenu li a.profile-drop span{display: none;}
+	.right-headmenu li a.profile-drop{margin-left:15px;}
+	.right-headmenu li a.profile-drop:before{left: -10px;}
+	.right-headmenu li{margin-right:5px;}
+	.left-headtitle h1{font-size: 16px;}
+	.left-headtitle a.mobilelogo, .left-headtitle .open-sidebar{display: block;}
+	.left-headtitle a.mobilelogo img{width: 35px;margin-right: 10px;}
+
+	.dashboard-count-row .col-md-3.col-sm-6{width: 50%;max-width: 50%;}
+	.dash-block{padding: 15px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 15px;}
+	.dash-block h2{font-size: 26px;}
+	.trands-rowbx{margin: 0 0 30px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+
+	.trands-rowbx{display: block;}
+	.trands-leftbx{width: 100%;padding: 15px;text-align: center;}
+	.graph-box img{height: auto;}
+	.trand-hed{display: block;}
+	.trand-hedright ul li{margin: 0 5px 0 0;}
+	.trand-hedright ul{justify-content: center;margin: 10px 0 0;}
+	.trands-rightbx ul{overflow: hidden;}
+	.trands-rightbx{width: 100%;padding: 0;}
+	.trands-rightbx li{width: 50%;max-width: 50%;float: left;padding: 15px;}
+	.trands-rightbx li h6{line-height: 22px;font-size: 14px;}
+	.trands-rightbx li h4{font-size: 18px;}
+	.trands-rightbx li:last-child{width: 100%;max-width: 100%;}
+
+	.listed-head{padding: 15px;}
+	.name-bx h3{font-size: 16px;}
+	.ticket-table .table tbody tr td{padding: 15px;}
+	.comn-block{margin: 0 0 30px;}
+}
+
+@media(min-width:448px) and (max-width:575px){
+	header{padding: 15px 0;}
+	.leftbar{left: -100%;}
+	aside.leftbar.open-bar{left: 0;}
+	a.close-bx{display: block;z-index: 60;}
+	.main-wrapper{padding: 100px 0 15px 0;}
+	.right-headmenu li a.profile-drop span{display: none;}
+	.right-headmenu li a.profile-drop{margin-left:15px;}
+	.right-headmenu li a.profile-drop:before{left: -10px;}
+	.right-headmenu li{margin-right:5px;}
+	.left-headtitle h1{font-size: 16px;}
+	.left-headtitle a.mobilelogo, .left-headtitle .open-sidebar{display: block;}
+	.left-headtitle a.mobilelogo img{width: 35px;margin-right: 10px;}
+
+	.dashboard-count-row .col-md-3.col-sm-6{width: 50%;max-width: 50%;}
+	.dash-block{padding: 15px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 15px;}
+	.dash-block h2{font-size: 26px;}
+	.trands-rowbx{margin: 0 0 30px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+
+	.trands-rowbx{display: block;}
+	.trands-leftbx{width: 100%;padding: 15px;text-align: center;}
+	.graph-box img{height: auto;}
+	.trand-hed{display: block;}
+	.trand-hedright ul li{margin: 0 5px 0 0;}
+	.trand-hedright ul{justify-content: center;margin: 10px 0 0;}
+	.trands-rightbx ul{overflow: hidden;}
+	.trands-rightbx{width: 100%;padding: 0;}
+	.trands-rightbx li{width: 50%;max-width: 50%;float: left;padding: 15px;}
+	.trands-rightbx li h6{line-height: 22px;font-size: 14px;}
+	.trands-rightbx li h4{font-size: 18px;}
+	.trands-rightbx li:last-child{width: 100%;max-width: 100%;}
+
+	.listed-head{padding: 15px;}
+	.name-bx h3{font-size: 16px;}
+	.ticket-table .table tbody tr td{padding: 15px;}
+	.comn-block{margin: 0 0 30px;}
+}
+
+@media(max-width:447px){
+	header{padding: 15px 0;}
+	.leftbar{left: -100%;}
+	aside.leftbar.open-bar{left: 0;}
+	a.close-bx{display: block;z-index: 60;}
+	.main-wrapper{padding: 100px 0 15px 0;}
+	.right-headmenu li a.profile-drop span{display: none;}
+	.right-headmenu li a.profile-drop{margin-left:15px;}
+	.right-headmenu li a.profile-drop:before{left: -10px;}
+	.right-headmenu li{margin-right:5px;}
+	.left-headtitle h1{font-size: 16px;}
+	.left-headtitle a.mobilelogo, .left-headtitle .open-sidebar{display: block;}
+	.left-headtitle a.mobilelogo img{width: 35px;margin-right: 10px;}
+
+	.dashboard-count-row .col-md-3.col-sm-6{width: 50%;max-width: 50%;}
+	.dash-block{padding: 15px;margin: 0 0 25px;}
+	.dash-block h6{font-size: 15px;}
+	.dash-block h2{font-size: 26px;}
+	.trands-rowbx{margin: 0 0 30px;}
+
+	.left-logobx {
+	    padding: 30px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    background: #363740;
+	    z-index: 55;
+	}
+	.leftbar-menu {
+	    padding: 95px 0 35px;
+	    height: 100%;
+	    overflow: auto;
+	}
+
+	.trands-rowbx{display: block;}
+	.trands-leftbx{width: 100%;padding: 15px;text-align: center;}
+	.graph-box img{height: auto;}
+	.trand-hed{display: block;}
+	.trand-hedright ul li{margin: 0 5px 0 0;}
+	.trand-hedright ul{justify-content: center;margin: 10px 0 0;}
+	.trands-rightbx ul{overflow: hidden;}
+	.trands-rightbx{width: 100%;padding: 0;}
+	.trands-rightbx li{width: 50%;max-width: 50%;float: left;padding: 15px;}
+	.trands-rightbx li h6{line-height: 22px;font-size: 14px;}
+	.trands-rightbx li h4{font-size: 18px;}
+	.trands-rightbx li:last-child{width: 100%;max-width: 100%;}
+
+	.listed-head{padding: 15px;}
+	.name-bx h3{font-size: 16px;}
+	.ticket-table .table tbody tr td{padding: 15px;}
+	.comn-block{margin: 0 0 30px;}
+}
